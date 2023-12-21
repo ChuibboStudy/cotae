@@ -1,12 +1,12 @@
 # 취뽀 코테 스터디
 |  Num  |     Date     |                 Title                 |         Category         |   level   |   기태   |   형기   |
 | :---: | :----------: | :-----------------------------------: | :----------------------: | :-------: | :-------: | :-------: |
-|   1   |  23. 12. 18 (월)  |  [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)  |  배열  |  2  |  -  |  -  |
-|   2   |  23. 12. 18 (월)  |  [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)  |  배열  |  2  |  -  |  -  |
-|   3   |  -  |  [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  |  배열  |  2  |  -  |  -  |
-|   4   |  -  |  [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)  |  배열  |  2  |  -  |  -  |
-|   5   |  -  |  [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)  |  문자열  |  1  |  -  |  -  |
-|   6   |  -  |  [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)  |  문자열  |  1  |  -  |  -  |
+|   1   |  23. 12. 18 (월)  |  [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)  |  배열  |  2  |  V  |  V  |
+|   2   |  23. 12. 18 (월)  |  [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)  |  배열  |  2  |  V  |  V  |
+|   3   |  23. 12. 21 (목)  |  [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)  |  배열  |  2  |  V  |  V  |
+|   4   |  23. 12. 21 (목)  |  [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)  |  배열  |  2  |  V  |  V  |
+|   5   |  23. 12. 21 (목)  |  [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)  |  문자열  |  1  |  V  |  V  |
+|   6   |  23. 12. 21 (목)  |  [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)  |  문자열  |  1  |  V  |  V  |
 |   7   |  -  |  [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)  |  문자열  |  1  |  -  |  -  |
 |   8   |  -  |  [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)  |  문자열  |  2  |  -  |  -  |
 |   9   |  -  |  [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)  |  문자열  |  1  |  -  |  -  |
