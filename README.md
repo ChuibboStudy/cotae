@@ -7,10 +7,10 @@
 |   4   |  23. 12. 21 (목)  |  [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)  |  배열  |  2  |  V  |  V  |
 |   5   |  23. 12. 21 (목)  |  [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)  |  문자열  |  1  |  V  |  V  |
 |   6   |  23. 12. 21 (목)  |  [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)  |  문자열  |  1  |  V  |  V  |
-|   7   |  -  |  [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)  |  문자열  |  1  |  -  |  -  |
-|   8   |  -  |  [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)  |  문자열  |  2  |  -  |  -  |
-|   9   |  -  |  [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)  |  문자열  |  1  |  -  |  -  |
-|   10   |  -  |  [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)  |  문자열  |  2  |  -  |  -  |
+|   7   |  23. 12. 22 (금)  |  [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)  |  문자열  |  1  |  V  |  V  |
+|   8   |  23. 12. 22 (금)  |  [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)  |  문자열  |  2  |  V  |  V  |
+|   9   |  23. 12. 23 (토)  |  [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)  |  문자열  |  1  |  -  |  -  |
+|   10   |  23. 12. 23 (토)  |  [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)  |  문자열  |  2  |  -  |  -  |
 |   11   |  -  |  [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)  |  문자열  |  1  |  -  |  -  |
 |   12   |  -  |  [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)  |  문자열  |  1  |  -  |  -  |
 |   13   |  -  |  [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  |  문자열  |  1  |  -  |  -  |
