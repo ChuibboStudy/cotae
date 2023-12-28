@@ -15,10 +15,10 @@
 |   12   |  23. 12. 26 (화)  |  [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)  |  문자열  |  1  |  -  |  -  |
 |   13   |  23. 12. 26 (화)  |  [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  |  문자열  |  1  |  -  |  -  |
 |   14   |  23. 12. 26 (화)  |  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)  |  문자열  |  1  |  -  |  -  |
-|   15   |  -  |  [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)  |  재귀  |  2  |  -  |  -  |
+|   15   |  23. 12. 27 (수)  |  [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)  |  재귀  |  2  |  -  |  -  |
 |   16   |  -  |  [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)  |  재귀  |  3  |  -  |  -  |
-|   17   |  -  |  [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)  |  재귀  |  2  |  -  |  -  |
-|   18   |  -  |  [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)  |  완전탐색  |  1  |  -  |  -  |
+|   17   |  23. 12. 27 (수)  |  [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)  |  재귀  |  2  |  -  |  -  |
+|   18   |  23. 12. 27 (수)  |  [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)  |  완전탐색  |  1  |  -  |  -  |
 |   19   |  -  |  [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)  |  완전탐색  |  2  |  -  |  -  |
 |   20   |  -  |  [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)  |  완전탐색  |  2  |  -  |  -  |
 |   21   |  -  |  [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)  |  완전탐색  |  2  |  -  |  -  |
