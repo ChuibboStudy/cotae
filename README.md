@@ -9,26 +9,26 @@
 |   6   |  23. 12. 21 (목)  |  [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)  |  문자열  |  1  |  V  |  V  |
 |   7   |  23. 12. 22 (금)  |  [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)  |  문자열  |  1  |  V  |  V  |
 |   8   |  23. 12. 22 (금)  |  [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)  |  문자열  |  2  |  V  |  V  |
-|   9   |  23. 12. 23 (토)  |  [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)  |  문자열  |  1  |  -  |  -  |
-|   10   |  23. 12. 23 (토)  |  [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)  |  문자열  |  2  |  -  |  -  |
-|   11   |  23. 12. 26 (화)  |  [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)  |  문자열  |  1  |  -  |  -  |
-|   12   |  23. 12. 26 (화)  |  [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)  |  문자열  |  1  |  -  |  -  |
-|   13   |  23. 12. 26 (화)  |  [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  |  문자열  |  1  |  -  |  -  |
-|   14   |  23. 12. 26 (화)  |  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)  |  문자열  |  1  |  -  |  -  |
-|   15   |  23. 12. 27 (수)  |  [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)  |  재귀  |  2  |  -  |  -  |
-|   16   |  -  |  [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)  |  재귀  |  3  |  -  |  -  |
-|   17   |  23. 12. 27 (수)  |  [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)  |  재귀  |  2  |  -  |  -  |
-|   18   |  23. 12. 27 (수)  |  [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)  |  완전탐색  |  1  |  -  |  -  |
-|   19   |  -  |  [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)  |  완전탐색  |  2  |  -  |  -  |
-|   20   |  -  |  [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)  |  완전탐색  |  2  |  -  |  -  |
-|   21   |  -  |  [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)  |  완전탐색  |  2  |  -  |  -  |
-|   22   |  -  |  [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)  |  완전탐색  |  3  |  -  |  -  |
-|   23   |  -  |  [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)  |  정렬  |  1  |  -  |  -  |
-|   24   |  -  |  [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)  |  정렬  |  1  |  -  |  -  |
-|   25   |  -  |  [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)  |  정렬  |  2  |  -  |  -  |
-|   26   |  -  |  [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  |  정렬  |  1  |  -  |  -  |
-|   27   |  -  |  [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)  |  정렬  |  1  |  -  |  -  |
-|   28   |  -  |  [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)  |  정렬  |  2  |  -  |  -  |
+|   9   |  23. 12. 23 (토)  |  [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)  |  문자열  |  1  |  -  |  V  |
+|   10   |  23. 12. 23 (토)  |  [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)  |  문자열  |  2  |  -  |  V  |
+|   11   |  23. 12. 26 (화)  |  [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)  |  문자열  |  1  |  -  |  V  |
+|   12   |  23. 12. 26 (화)  |  [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)  |  문자열  |  1  |  -  |  V  |
+|   13   |  23. 12. 26 (화)  |  [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)  |  문자열  |  1  |  -  |  V  |
+|   14   |  23. 12. 26 (화)  |  [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)  |  문자열  |  1  |  -  |  V  |
+|   15   |  23. 12. 27 (수)  |  [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)  |  재귀  |  2  |  -  |  V  |
+|   16   |  23. 12. 27 (수)  |  [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)  |  재귀  |  3  |  -  |  V  |
+|   17   |  23. 12. 27 (수)  |  [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)  |  재귀  |  2  |  -  |  V  |
+|   18   |  23. 12. 27 (수)  |  [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)  |  완전탐색  |  1  |  -  |  V  |
+|   19   |  23. 12. 28 (목)  |  [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)  |  완전탐색  |  2  |  -  |  V  |
+|   20   |  23. 12. 28 (목)  |  [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)  |  완전탐색  |  2  |  V  |  V  |
+|   21   |  23. 12. 29 (금)  |  [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)  |  완전탐색  |  2  |  -  |  V  |
+|   22   |  23. 12. 29 (금)  |  [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)  |  완전탐색  |  3  |  -  |  V  |
+|   23   |  23. 12. 30 (토)  |  [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)  |  정렬  |  1  |  -  |  V  |
+|   24   |  23. 12. 30 (토)  |  [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)  |  정렬  |  1  |  -  |  V  |
+|   25   |  23. 12. 31 (일)  |  [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)  |  정렬  |  2  |  -  |  V  |
+|   26   |  23. 12. 31 (일)  |  [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  |  정렬  |  1  |  -  |  V  |
+|   27   |  23. 01. 01 (월)  |  [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)  |  정렬  |  1  |  -  |  V  |
+|   28   |  24. 01. 01 (월)  |  [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)  |  정렬  |  2  |  -  |  V  |
 |   29   |  -  |  [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)  |  정렬  |  2  |  -  |  -  |
 |   30   |  -  |  [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)  |  이진탐색  |  2  |  -  |  -  |
 |   31   |  -  |  [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  |  이진탐색  |  3  |  -  |  -  |
