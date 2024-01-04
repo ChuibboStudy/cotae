@@ -29,10 +29,10 @@
 |   26   |  23. 12. 31 (일)  |  [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  |  정렬  |  1  |  -  |  V  |
 |   27   |  23. 01. 01 (월)  |  [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)  |  정렬  |  1  |  -  |  V  |
 |   28   |  24. 01. 01 (월)  |  [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)  |  정렬  |  2  |  -  |  V  |
-|   29   |  -  |  [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)  |  정렬  |  2  |  -  |  -  |
-|   30   |  -  |  [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)  |  이진탐색  |  2  |  -  |  -  |
-|   31   |  -  |  [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  |  이진탐색  |  3  |  -  |  -  |
-|   32   |  -  |  [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  |  이진탐색  |  4  |  -  |  -  |
+|   29   |  24. 01. 02 (화)  |  [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)  |  정렬  |  2  |  -  |  V  |
+|   30   |  24. 01. 03 (수)  |  [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)  |  이진탐색  |  2  |  -  |  V  |
+|   31   |  24. 01. 04 (목)  |  [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  |  이진탐색  |  3  |  -  |  V  |
+|   32   |  24. 01. 05 (금)  |  [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  |  이진탐색  |  4  |  -  |  -  |
 |   33   |  -  |  [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)  |  해시  |  0  |  -  |  -  |
 |   34   |  -  |  [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)  |  해시  |  0  |  -  |  -  |
 |   35   |  -  |  [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)  |  해시  |  0  |  -  |  -  |
