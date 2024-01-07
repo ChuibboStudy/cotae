@@ -35,8 +35,8 @@
 |   32   |  24. 01. 05 (금)  |  [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  |  이진탐색  |  4  |  -  |  V  |
 |   33   |  24. 01. 06 (토)  |  [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)  |  해시  |  0  |  -  |  V  |
 |   34   |  24. 01. 06 (토)  |  [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)  |  해시  |  0  |  -  |  V  |
-|   35   |  -  |  [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)  |  해시  |  0  |  -  |  -  |
-|   36   |  -  |  [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)  |  해시  |  1  |  -  |  -  |
+|   35   |  24. 01. 07 (일)  |  [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)  |  해시  |  0  |  -  |  V  |
+|   36   |  24. 01. 07 (일)  |  [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)  |  해시  |  1  |  -  |  V  |
 |   37   |  -  |  [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  |  해시  |  1  |  -  |  -  |
 |   38   |  -  |  [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)  |  DP  |  2  |  -  |  -  |
 |   39   |  -  |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |  DP  |  3  |  -  |  -  |
