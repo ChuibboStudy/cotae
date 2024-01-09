@@ -39,8 +39,8 @@
 |   36   |  24. 01. 07 (일)  |  [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)  |  해시  |  1  |  -  |  V  |
 |   37   |  24. 01. 08 (월)  |  [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  |  해시  |  1  |  -  |  V  |
 |   38   |  24. 01. 08 (월)  |  [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)  |  DP  |  2  |  -  |  V  |
-|   39   |  -  |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |  DP  |  3  |  -  |  -  |
-|   40   |  -  |  [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)  |  DP  |  3  |  -  |  -  |
+|   39   |  24. 01. 09 (화)  |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |  DP  |  3  |  -  |  V  |
+|   40   |  24. 01. 10 (수)  |  [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)  |  DP  |  3  |  -  |  -  |
 |   41   |  -  |  [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)  |  DP  |  4  |  -  |  -  |
 |   42   |  -  |  [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)  |  자료구조  |  2  |  -  |  -  |
 |   43   |  -  |  [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  |  자료구조  |  2  |  -  |  -  |
