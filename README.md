@@ -42,9 +42,9 @@
 |   39   |  24. 01. 09 (화)  |  [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  |  DP  |  3  |  -  |  V  |
 |   40   |  24. 01. 10 (수)  |  [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)  |  DP  |  3  |  -  |  V  |
 |   41   |  24. 01. 12 (금)  |  [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)  |  DP  |  4  |  -  |  V  |
-|   42   |  24. 01. 13 (토)  |  [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)  |  자료구조  |  2  |  -  |  -  |
-|   43   |  -  |  [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  |  자료구조  |  2  |  -  |  -  |
-|   44   |  -  |  [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)  |  자료구조  |  2  |  -  |  -  |
+|   42   |  24. 01. 13 (토)  |  [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)  |  자료구조  |  2  |  -  |  V  |
+|   43   |  24. 01. 14 (일)  |  [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  |  자료구조  |  2  |  -  |  V  |
+|   44   |  24. 01. 15 (월)  |  [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)  |  자료구조  |  2  |  -  |  -  |
 |   45   |  -  |  [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  |  자료구조  |  2  |  -  |  -  |
 |   46   |  -  |  [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  |  자료구조  |  2  |  -  |  -  |
 |   47   |  -  |  [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)  |  자료구조  |  3  |  -  |  -  |
