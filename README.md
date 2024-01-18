@@ -46,9 +46,9 @@
 |   43   |  24. 01. 14 (일)  |  [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  |  자료구조  |  2  |  -  |  V  |
 |   44   |  24. 01. 15 (월)  |  [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)  |  자료구조  |  2  |  -  |  V  |
 |   45   |  24. 01. 16 (화)  |  [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  |  자료구조  |  2  |  -  |  V  |
-|   46   |  24. 01. 17 (수)  |  [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  |  자료구조  |  2  |  -  |  -  |
-|   47   |  -  |  [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)  |  자료구조  |  3  |  -  |  -  |
-|   48   |  -  |  [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)  |  자료구조  |  5  |  -  |  -  |
+|   46   |  24. 01. 17 (수)  |  [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  |  자료구조  |  2  |  -  |  V  |
+|   47   |  24. 01. 18 (목)  |  [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)  |  자료구조  |  3  |  -  |  V  |
+|   48   |  24. 01. 19 (금)  |  [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)  |  자료구조  |  5  |  -  |  -  |
 |   49   |  -  |  [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)  |  자료구조  |  3  |  -  |  -  |
 |   50   |  -  |  [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |  자료구조  |  3  |  -  |  -  |
 |   51   |  -  |  [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  |  자료구조  |  3  |  -  |  -  |
