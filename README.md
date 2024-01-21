@@ -49,8 +49,8 @@
 |   46   |  24. 01. 17 (수)  |  [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  |  자료구조  |  2  |  -  |  V  |
 |   47   |  24. 01. 18 (목)  |  [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)  |  자료구조  |  3  |  -  |  V  |
 |   48   |  24. 01. 20 (토)  |  [방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)  |  자료구조  |  5  |  -  |  V  |
-|   49   |  -  |  [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)  |  자료구조  |  3  |  -  |  -  |
-|   50   |  -  |  [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |  자료구조  |  3  |  -  |  -  |
+|   49   |  24. 01. 21 (일)  |  [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)  |  자료구조  |  3  |  -  |  V  |
+|   50   |  24. 01. 22 (월)  |  [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |  자료구조  |  3  |  -  |  -  |
 |   51   |  -  |  [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  |  자료구조  |  3  |  -  |  -  |
 |   52   |  -  |  [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  |  자료구조  |  3  |  -  |  -  |
 |   53   |  -  |  [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)  |  자료구조  |  3  |  -  |  -  |
