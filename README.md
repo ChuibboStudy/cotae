@@ -53,8 +53,8 @@
 |   50   |  24. 01. 22 (월)  |  [이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |  자료구조  |  3  |  -  |  V  |
 |   51   |  24. 01. 23 (화)  |  [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  |  자료구조  |  3  |  -  |  V  |
 |   52   |  24. 01. 24 (수)  |  [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)  |  자료구조  |  3  |  -  |  V  |
-|   53   |  -  |  [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)  |  자료구조  |  3  |  -  |  -  |
-|   54   |  -  |  [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)  |  자료구조  |  4  |  -  |  -  |
+|   53   |  24. 01. 25 (목)  |  [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)  |  자료구조  |  3  |  -  |  V  |
+|   54   |  24. 01. 26 (금)  |  [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)  |  자료구조  |  4  |  -  |  V  |
 |   55   |  -  |  [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)  |  자료구조  |  4  |  -  |  -  |
 |   56   |  -  |  [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)  |  구현  |  2  |  -  |  -  |
 |   57   |  -  |  [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)  |  구현  |  1  |  -  |  -  |
