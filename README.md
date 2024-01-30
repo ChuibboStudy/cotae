@@ -57,8 +57,8 @@
 |   54   |  24. 01. 26 (금)  |  [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)  |  자료구조  |  4  |  -  |  V  |
 |   55   |  24. 01. 27 (토)  |  [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060)  |  자료구조  |  4  |  -  |  V  |
 |   56   |  24. 01. 28 (일)  |  [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)  |  구현  |  2  |  -  |  V  |
-|   57   |  -  |  [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)  |  구현  |  1  |  -  |  -  |
-|   58   |  -  |  [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  |  구현  |  2  |  -  |  -  |
+|   57   |  24. 01. 29 (월)  |  [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)  |  구현  |  1  |  -  |  V  |
+|   58   |  24. 01. 30 (화)  |  [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  |  구현  |  2  |  -  |  V  |
 |   59   |  -  |  [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)  |  구현  |  3  |  -  |  -  |
 |   60   |  -  |  [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)  |  구현  |  3  |  -  |  -  |
 |   61   |  -  |  [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  |  구현  |  3  |  -  |  -  |
