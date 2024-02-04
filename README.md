@@ -62,7 +62,7 @@
 |   59   |  24. 01. 31 (수)  |  [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)  |  구현  |  3  |  -  |  V  |
 |   60   |  24. 02. 01 (목)  |  [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)  |  구현  |  3  |  -  |  V  |
 |   61   |  24. 02. 02 (금)  |  [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  |  구현  |  3  |  -  |  V  |
-|   62   |  24. 02. 03 (토)  |  [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)  |  구현  |  1  |  -  |  -  |
+|   62   |  24. 02. 03 (토)  |  [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)  |  구현  |  1  |  -  |  V  |
 |   63   |  24. 02. 04 (일)  |  [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)  |  구현  |  2  |  -  |  V  |
 |   64   |  24. 02. 05 (월)  |  [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)  |  구현  |  3  |  -  |  -  |
 |   65   |  -  |  [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  |  카카오 22 블라인드  |  1  |  -  |  -  |
