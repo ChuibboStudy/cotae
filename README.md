@@ -64,9 +64,9 @@
 |   61   |  24. 02. 02 (금)  |  [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  |  구현  |  3  |  -  |  V  |
 |   62   |  24. 02. 03 (토)  |  [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)  |  구현  |  1  |  -  |  V  |
 |   63   |  24. 02. 04 (일)  |  [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)  |  구현  |  2  |  -  |  V  |
-|   64   |  24. 02. 05 (월)  |  [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)  |  구현  |  3  |  -  |  -  |
-|   65   |  -  |  [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  |  카카오 22 블라인드  |  1  |  -  |  -  |
-|   66   |  -  |  [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  |  카카오 22 블라인드  |  2  |  -  |  -  |
+|   64   |  24. 02. 05 (월)  |  [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)  |  구현  |  3  |  -  |  V  |
+|   65   |  24. 02. 06 (화)  |  [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  |  카카오 22 블라인드  |  1  |  -  |  -  |
+|   66   |  24. 02. 07 (수)  |  [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  |  카카오 22 블라인드  |  2  |  -  |  -  |
 |   67   |  -  |  [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  |  카카오 22 블라인드  |  2  |  -  |  -  |
 |   68   |  -  |  [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)  |  카카오 22 블라인드  |  2  |  -  |  -  |
 |   69   |  -  |  [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)  |  카카오 22 블라인드  |  3  |  -  |  -  |
