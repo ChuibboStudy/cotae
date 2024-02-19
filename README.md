@@ -68,7 +68,7 @@
 |   65   |  24. 02. 06 (화)  |  [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  |  카카오 22 블라인드  |  1  |  -  |  V  |
 |   66   |  24. 02. 07 (수)  |  [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  |  카카오 22 블라인드  |  2  |  -  |  V  |
 |   67   |  24. 02. 08 (목)  |  [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  |  카카오 22 블라인드  |  2  |  -  |  V  |
-|   68   |  24. 02. 10 (금)  |  [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)  |  카카오 22 블라인드  |  2  |  -  |  V  |
-|   69   |  -  |  [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)  |  카카오 22 블라인드  |  3  |  -  |  -  |
-|   70   |  -  |  [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)  |  카카오 22 블라인드  |  3  |  -  |  -  |
-|   71   |  -  |  [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)  |  카카오 22 블라인드  |  3  |  -  |  -  |
+|   68   |  24. 02. 9 (금)  |  [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)  |  카카오 22 블라인드  |  2  |  -  |  V  |
+|   69   |  24. 02. 10 (토)  |  [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)  |  카카오 22 블라인드  |  3  |  -  |  V  |
+|   70   |  24. 02. 12 (월)  |  [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)  |  카카오 22 블라인드  |  3  |  -  |  V  |
+|   71   |  24. 02. 19 (월)  |  [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)  |  카카오 22 블라인드  |  3  |  -  |  V  |
